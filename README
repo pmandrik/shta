@@ -1,0 +1,24 @@
+
+(1). Introduction
+(2). License
+(3). Releases history
+
+### (1). Introduction
+  This is  SHTA package for experimental statistical data analyses in high energy physics
+  SHTA used a CERN ROOT library for data graphical representation and storage
+  and was originally developed to be fast, transparent and simple alternative to ROOSTAT/ROOFIT 
+  as well as for some other libraryes such as closed CombinedLimit and abadoned Theta.
+ 
+### (2). License
+  SHTA available under GNU Lesser General Public License v3.0, plese see LICENSE file for
+  full text of license.
+
+### (3). Releases history
+
+  -> 6/07/17 - v.0.1.n - it is frozen release to reproduse changes negative weight study
+                         please look at shta/negative_scripts files, also
+                         https://qfthep.sinp.msu.ru/talks2017/1498387481_pmandrikQTHEP.pdf
+
+
+Mandrik Petr, IHEP, PROTVINO, 2017 - 
+
